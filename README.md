@@ -2,6 +2,9 @@
 Practice CV starting with the workout video set from kaggle:
 https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data
 
+## The mission:
+Build a classifier to predict the type of workout from the video.
+
 ## Open issues:
 0. deal with data imbalance
 1. currently, the model works on individual frames, but without the option to learn from consecutive frames about the flow of the workout. RNN?
